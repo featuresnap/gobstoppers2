@@ -1,0 +1,7 @@
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers\bin\Debug\Gobstoppers.XML
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers\bin\Debug\Gobstoppers.dll
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers\bin\Debug\Gobstoppers.pdb
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers\bin\Debug\FSharp.Core.dll
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers\bin\Debug\FSharp.Core.xml
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers\obj\Debug\Gobstoppers.dll
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers\obj\Debug\Gobstoppers.pdb

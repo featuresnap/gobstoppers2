@@ -1,0 +1,15 @@
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\bin\Debug\Gobstoppers2.dll.config
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\bin\Debug\Gobstoppers2.XML
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\bin\Debug\Gobstoppers2.dll
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\bin\Debug\Gobstoppers2.pdb
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\bin\Debug\FSharp.Core.dll
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\bin\Debug\FsUnit.NUnit.dll
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\bin\Debug\nunit.framework.dll
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\bin\Debug\FSharp.Core.xml
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\bin\Debug\nunit.framework.xml
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\obj\Debug\Gobstoppers2.fsprojResolveAssemblyReference.cache
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\obj\Debug\Gobstoppers2.dll
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\obj\Debug\Gobstoppers2.pdb
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\bin\Debug\Gobstoppers.dll
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\bin\Debug\Gobstoppers.pdb
+c:\users\pat\documents\visual studio 2012\Projects\Gobstoppers2\Gobstoppers2\bin\Debug\Gobstoppers.xml
